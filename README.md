@@ -31,15 +31,12 @@ api-hyperautomation/
 │
 ├── requirements.txt
 └── README.md
-
+```
 Esta estructura facilita:
 - Escalabilidad
 - Mantenibilidad
 - Sustitución de proveedores
 - Integración con plataformas de automatización empresarial
-
-```
-
 ---
 
 ## 🔄 Flujo de ejecución
