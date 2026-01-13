@@ -1,4 +1,4 @@
-# API – Hyperautomation 
+# Fx - Rate - Api - Engine
 
 Este proyecto implementa un **sistema de obtención y procesamiento de tasas de cambio** con enfoque en **Hyperautomation**, diseñado para escenarios empresariales reales donde:
 
@@ -14,7 +14,7 @@ El sistema permite definir **múltiples proveedores de divisas con prioridades**
 ## 🏗️ Arquitectura
 
 ```
-api-hyperautomation/
+fx-rate-api-engine/
 │
 ├── config/
 ├── data/
